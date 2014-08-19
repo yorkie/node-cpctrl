@@ -1,0 +1,26 @@
+{
+  "name": "cpctrl",
+  "version": "1.0.0",
+  "description": "child_process control for nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "get-signal": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yorkie/node-cpctrl.git"
+  },
+  "keywords": [
+    "child_process"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-cpctrl/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-cpctrl"
+}
